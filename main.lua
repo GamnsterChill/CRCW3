@@ -1,4 +1,4 @@
--- [[ PROJECT: Classic Retro Craftwars - Elite Customizable Hub (v15.5) ]]
+-- [[ PROJECT: Classic Retro Craftwars - Elite Customizable Hub ]]
 -- [[ ЧАСТЬ 3 ИЗ 4: Автоклики и Сверх-прожим Способностей ]]
 
 local RunService = game:GetService("RunService")
